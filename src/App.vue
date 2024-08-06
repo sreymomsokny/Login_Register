@@ -12,6 +12,7 @@
       <!-- Now Lets have them switch component -->
     </div>
   </div>
+  <h1>hello</h1>
 </template>
 
 <script>

@@ -7,7 +7,7 @@ export default class ValidateService {
         return "Full name must be have 6 characters long.";
       }
       if (!(/\s/).test(text)) {
-        return "Please enter a full name include whitespace.";
+        return "Please enter a full name include whitespace. ";
       }
       return "";
     }
